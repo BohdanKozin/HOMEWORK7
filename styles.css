@@ -650,16 +650,16 @@ background-repeat: no-repeat;
 
 /* <!-- Our team --> */
 
-.conteiner-team {
+/* .conteiner-team {
     background-color: #F5F4FA;
 }
 
 .conteiner-team-list {
     padding-top: 94px;
     padding-bottom: 94px;
-}
+} */
 
-.team-list {
+/* .team-list {
     padding-inline-start: 0px;
     display: flex;
     margin: 0;
@@ -670,9 +670,9 @@ background-repeat: no-repeat;
     padding-top: 30px;
     padding-left: 32px;
     padding-right: 32px;
-}
+} */
 
-.team-list-icon {
+/* .team-list-icon {
     background: #FFFFFF;
     box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
     border-radius: 0px 0px 4px 4px;
@@ -681,25 +681,25 @@ background-repeat: no-repeat;
 
 .team-list-icon:not(:last-child) {
     margin-right: 30px;
-}
+} */
 
-.team-title-name {
+/* .team-title-name {
     margin-bottom: 10px;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.2;
     text-align: center;
-}
+} */
 
-.team-post {
+/* .team-post {
     margin-bottom: 16px;
 
     font-size: 16px;
     line-height: 1.2;
     text-align: center;
     color: var(--advantage-text-color);
-}
-
+} */
+/* 
 .Our-team-sylky {
     display: flex;
 }
@@ -733,7 +733,7 @@ background-repeat: no-repeat;
 
 .icon-Our-team {
     fill: currentColor;
-}
+} */
 
 
 
@@ -889,7 +889,7 @@ background-repeat: no-repeat;
     height: 20px;
 } */
 
-.form-distribution{ display: flex;}
+/* .form-distribution{ display: flex;}
 .mail-distribution{ margin-left: 93px; }
 .distribution-text{color: var(--other-text-color);
     margin-top: 12px;
@@ -942,7 +942,7 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 border-radius: 4px;
 border: 0px;
 cursor: pointer;} 
-.icon-footer.distribution{ margin-left: 10px;}
+.icon-footer.distribution{ margin-left: 10px;} */
 
 
 /* Portfolio */
