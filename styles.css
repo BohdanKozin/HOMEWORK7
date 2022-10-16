@@ -947,44 +947,40 @@ cursor: pointer;}
 
 /* Portfolio */
 
-.galeria {
+/* .galeria {
     padding: 96px 0px 92px 0px;
-}
+} */
 
 
-.btn-list {
+/* .btn-list {
     margin-bottom: 50px;
     padding-inline-start: 0px;
     display: flex;
     justify-content: center;
 
 
-}
-
+} */
+/* 
 .bnt-link:not(:last-child) {
     margin-right: 8px;
-}
-
+} */
+/* 
 .list-portfolio {
     gap: 30px;
     display: flex;
     flex-wrap: wrap;
     margin: 0;
     padding: 0;
-}
+} */
 
-.img {
-    max-width: 100%;
-    height: auto
-}
 
-.list-portfolio-icon {
+/* .list-portfolio-icon {
     position: relative;
     display: block;
     width: 370px;
-}
+} */
 
-.link-portfolio {
+/* .link-portfolio {
     display: block;
     transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -992,7 +988,7 @@ cursor: pointer;}
 .link-portfolio:hover,
 .link-portfolio:focus {
     box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
-}
+} */
 
 .foto-portfilio {
     display: block;
@@ -1006,15 +1002,15 @@ cursor: pointer;}
     margin-bottom: 0;
 }
 
-.portfolio-icon-text {
+/* .portfolio-icon-text {
     padding: 20px 24px 20px 24px;
     background: #FFFFFF;
     border-left: 1px solid #EEEEEE;
     border-right: 1px solid #EEEEEE;
     border-bottom: 1px solid #EEEEEE;
-}
+} */
 
-.title-galety {
+/* .title-galety {
     position: absolute;
     white-space: nowrap;
     width: 1px;
@@ -1025,13 +1021,13 @@ cursor: pointer;}
     clip: rect(0 0 0 0);
     clip-path: inset(50%);
     margin: -1px;
-}
+} */
 
 .bnt-portfolio:not(:last-child) {
     margin-right: 8px;
 }
 
-.bnt-portfolio {
+/* .bnt-portfolio {
     padding: 6px 22px 6px 22px;
     background: #F5F4FA;
     border-radius: 4px;
@@ -1046,8 +1042,8 @@ cursor: pointer;}
  
 
     
-}
-
+} */
+/* 
 .bnt-link :hover,
 .bnt-link :focus,
 .bnt-link :active {
@@ -1055,9 +1051,9 @@ cursor: pointer;}
     color: var(--other-text-color);
     cursor: pointer;
     box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
-}
+} */
 
-.title-portfolio {
+/* .title-portfolio {
     margin-bottom: 4px;
     font-weight: 700;
     font-size: 18px;
@@ -1077,7 +1073,7 @@ cursor: pointer;}
 .communication-footer:focus,
 .Address-link:hover,
 .Address-link:focus {
-    color: var(--focus-text-color);
+    color: var(--focus-text-color); */
 }
 
 .link-portfolio:hover .text-opaciti,
@@ -1085,9 +1081,6 @@ cursor: pointer;}
     transform: translateY(0%);
    
 }
-
-
-
 
 .foto-opaciti{position: relative;
 overflow: hidden;}
