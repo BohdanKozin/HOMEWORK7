@@ -795,7 +795,7 @@ img {
   display: -ms-flexbox;
   display: flex;
 }
-.advantage__list-item:not(:last-child) {
+.advantage__item:not(:last-child) {
   margin-right: 30px;
 }
 .advantage__title {
@@ -863,10 +863,10 @@ img {
       -ms-flex-pack: center;
           justify-content: center;
 }
-.working__list-item:not(:last-child) {
+.working__item:not(:last-child) {
   margin-right: 30px;
 }
-.working__list-item {
+.working__item {
   position: relative;
   width: 370px;
 }
